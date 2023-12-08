@@ -7,6 +7,10 @@ Obliczenie BMI jest stosunkowo proste i opiera się na wzorze matematycznym:
 
 BMI=masa ciała (kg)(wzrost (m))2BMI=(wzrost (m))2masa ciała (kg)​
 
+W praktyce można również używać jednostek imperialnych (funty dla masy ciała, cale dla wzrostu), a wzór będzie wyglądał nieco inaczej:
+
+BMI=masa ciała (lbs)(wzrost (in))2×703BMI=(wzrost (in))2masa ciała (lbs)​×703
+
 Wyniki BMI można interpretować zgodnie z następującymi kategoriami:
 
     BMI poniżej 18,5: Niedowaga
