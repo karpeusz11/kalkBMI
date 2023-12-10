@@ -17,7 +17,7 @@ def zmienne(waga, wzrost, jednostki):
 
 def main():
     print("Zapraszamy do uzycia naszego kalkulatora!")
-    jednostki = input("Wybierz system ('metryczne' lub 'imperialne'): ")
+    jednostki = input("Wybierz system ('metryczne(centymetry,kilogramy)' lub 'imperialne(stopy,funty'): ")
     wzrost = float(input("Podaj ile masz wzrostu: "))
     waga = float(input("Podaj swoja mase ciała: "))
 
