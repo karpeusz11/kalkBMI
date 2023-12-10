@@ -24,4 +24,7 @@ W ten sposób stworzył wzór na określenie właściwej masy ciała i odchyleń
 
 Nieprawidłowe BMI zwiększa ryzyko wystąpienia chorób dietozależnych między innymi: otyłości, cukrzycy typu drugiego, chorób układu krążenia, osteoporozy i niektórych nowotworów złośliwych.
 Aby zmiejszyć ryzyko ich wystąpienia należy zwrócić uwagę czy na codzień popełniamy błędy żywieniowe takie jak: dodatni bilans energetyczny, nadmierne spożycie cukrów, soli, tłuszczów trans i nasyconych kwasów tłuszczowych przy równocześnie zbyt małym spożyciu witamin i polifenoli. 
-Innym sposobem jest stosowanie odpowiedniej profilaktyki, a jej podstawą jest prawidłowa dieta.
+Innym sposobem jest stosowanie odpowiedniej profilaktyki, a jej podstawą jest prawidłowa dieta. Aby czuć się bezpiecznym należy:
+-wzbogacić swoją dietę w owoce i warzywa,
+-ograniczeniczyć spożycie cukrów prostych, soli, tłuszczów zwierzęcych i alkoholu,
+-dostarczać organizmowi odpowiednią ilość błonnika i niezbędnych nienasyconych kwasów tłuszczowych.
