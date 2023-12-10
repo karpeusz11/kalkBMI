@@ -17,7 +17,3 @@ Wyniki BMI można interpretować zgodnie z następującymi kategoriami:
     BMI 18,5–24,9: Waga prawidłowa
     BMI 25–29,9: Nadwaga
     BMI 30 i powyżej: Otyłość
-
-Wydawałoby się, że BMI to wymysł współczesnych crossfitowców. Nic bardziej mylnego. Jego początki sięgają już 1832 roku kiedy Adolf Queteleta zajmował się badaniami nad 
-określeniem kształtu przeciętnego człowieka. Podczas obserwacji uchodźców zauważył, że masa ciała rośnie proporcjonalnie do wzrostu podniesionego do kwadratu.
-W ten sposób stworzył wzór na określenie właściwej masy ciała i odchyleń od normy. Dzięki temu w łatwy sposób można kontrolować stan zdrowia organizmu.
