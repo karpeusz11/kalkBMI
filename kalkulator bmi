@@ -37,5 +37,5 @@ def main():
     nazwa_pliku = "wyniki_bmi.txt"
     zapisz_do_pliku(wynik_str, nazwa_pliku)
 
-if _name_ == "_main_":
+if __name__ == "__main__":
     main()
