@@ -29,3 +29,11 @@ Innym sposobem jest stosowanie odpowiedniej profilaktyki, a jej podstawą jest p
 -wzbogacić swoją dietę w owoce i warzywa,
 -ograniczeniczyć spożycie cukrów prostych, soli, tłuszczów zwierzęcych i alkoholu,
 -dostarczać organizmowi odpowiednią ilość błonnika i niezbędnych nienasyconych kwasów tłuszczowych.
+
+Autorzy projektu:
+-Oliwia Gawlik
+-Jan Mika
+-Jan Janowiec
+-Filip Koprowski
+-Mateusz Kujath
+-Marcel Chłopek
