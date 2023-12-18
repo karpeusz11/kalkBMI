@@ -1,0 +1,31 @@
+import matplotlib.pyplot as plt
+
+# wczytuje dane z pliku tekstowego
+with open("C:\\Users\\DELL\\PycharmProjects\\pythonProject\\wyniki_bmi.txt", 'r') as plik:
+    lines = plik.readlines()
+
+# wybiera wszystkie wartości z każdej linii z zaokrągleniem do 2 miejsc po przecinku
+wyniki_bmi = []
+for line in lines:
+    values = [round(float(val.replace(",", ".")), 2) for val in line.split() if any(char.isdigit() or char == '.' or char == ',' for char in val)]
+    wyniki_bmi.extend(values)
+
+# ustala kolory dla poszczególnych wyników - prawidłowy lub nieprawidłowy
+kolory = ['red' if not 18.5 <= bmi <= 24.9 else 'green' for bmi in wyniki_bmi]
+
+# rysuje wykres
+plt.scatter(range(1, len(wyniki_bmi) + 1), wyniki_bmi, c=kolory, s=50)  # Dodaj parametr s
+
+# przedział w prostokącie
+plt.axhspan(18.5, 24.9, facecolor='green', alpha=0.3, label='Poprawna waga')
+
+# podpisuje osie tabeli
+plt.xlabel('Numer pomiaru')
+plt.ylabel('BMI')
+plt.title('Wykres BMI z przedziałem poprawnej wagi')
+
+# legenda
+plt.legend()
+
+# wyświetla wykres
+plt.show()
